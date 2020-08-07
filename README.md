@@ -1,6 +1,6 @@
 # Proffy
 
-> É uma aplicação que auxilia estudantes a encontrarem um professor particular. Nossa solução oferece a comodidade do aluno encontrar um professor de acordo com o sua agenda. 
+> Proffy é um aplicativo feito com o objetivo de conectar facilmente alunos e professores. Por meio deste aplicativo, os alunos podem localizar professores e entrar em contato com eles. Já para os proffys, eles podem reunir alunos e agendar aulas. 
 
 # Como executar esse projeto
 
